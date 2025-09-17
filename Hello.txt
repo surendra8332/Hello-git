@@ -1,0 +1,2 @@
+this is surendra i am practising git
+git init
